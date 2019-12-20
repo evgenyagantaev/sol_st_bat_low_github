@@ -1,0 +1,10 @@
+19:07:54 **** Incremental Build of configuration Debug for project vihr_l051c8t6_cubeide ****
+make -j4 all 
+arm-none-eabi-size   vihr_l051c8t6_cubeide.elf 
+   text	   data	    bss	    dec	    hex	filename
+  41572	    156	   3472	  45200	   b090	vihr_l051c8t6_cubeide.elf
+Finished building: default.size.stdout
+ 
+
+19:07:55 Build Finished. 0 errors, 0 warnings. (took 462ms)
+
